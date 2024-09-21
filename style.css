@@ -18,8 +18,9 @@ body{
     background-attachment: fixed;
 }
 .content{
-    padding-top:75px;
+    padding-top:175px;
     position: relative;
+    height: 100vh;
 }
 table{
     width: 1200px;
